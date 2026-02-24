@@ -1,0 +1,71 @@
+CONTACT
+Credential
+Endpoints
+First Name
+Gender
+Identifiers
+Last Checked
+Last Name
+Last Updated
+Location Address 1
+Location Address 2
+Location Address City
+Location Address Country
+Location Address Phone
+Location Address State
+Location Address Zip
+Mailing Address 1
+Mailing Address 2
+Mailing Address City
+Mailing Address Country
+Mailing Address Phone
+Mailing Address State
+Mailing Address Zip
+Middle Name
+Name Prefix
+Name Suffix
+No Match
+NPI Number
+Other Names
+Practice Locations
+Run Check
+Sole Proprietor
+Status
+Taxonomies
+
+COMPANY
+Authorized Official Credential
+Authorized Official First Name
+Authorized Official Last Name
+Authorized Official Middle Name
+Authorized Official Name Prefix
+Authorized Official Name Suffix
+Authorized Official Phone
+Authorized Official Title
+Endpoints
+Identifiers
+Last Checked
+Last Updated
+Location Address 1
+Location Address 2
+Location Address City
+Location Address Country
+Location Address Phone
+Location Address State
+Location Address Zip
+Mailing Address 1
+Mailing Address 2
+Mailing Address City
+Mailing Address Country
+Mailing Address Phone
+Mailing Address State
+Mailing Address Zip
+No Match
+NPI Number
+Organization Name
+Other Names
+Practice Locations
+Run Check
+Status
+Subpart
+Taxonomies
